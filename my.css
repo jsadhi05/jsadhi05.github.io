@@ -1,0 +1,56 @@
+#main {
+	
+	width:600px;
+	margin-top:100px;
+	margin-left:150px;
+	
+}
+
+#pic {
+	
+	width:350px;
+	height:350px;
+	content:url("pic.jpg");
+	float:right;
+	margin-top:-350px;
+	margin-right:150px;
+}
+
+#fb {
+	width :100px;
+	height:150px;
+	content:url("fb.png");
+	float:left;
+	margin-left:150px;
+	margin-top:175px;
+	
+}
+
+#git {
+	width:150;
+	height:150;
+	content:url("git.png");
+	float:center-left;
+	margin-left:600px;
+	margin-top:200px;
+}
+
+#link {
+	width:250px;
+	height:150;
+	content:url("linkpng.png");
+	float:right;
+	margin-right:150px;
+	margin-top:-150px;
+}
+
+
+#yet {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top:300px;
+	
+}
+	
+	
